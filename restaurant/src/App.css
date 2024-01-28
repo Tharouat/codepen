@@ -1,0 +1,13 @@
+root {
+
+    --font: slategrey;
+    --background: wheat;
+    --menuColor: slategrey;
+}
+body {
+    width: auto;
+    background-color: wheat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
